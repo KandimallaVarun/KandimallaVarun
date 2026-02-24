@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandimallavarun&label=Profile%20views&color=0e75b6&style=flat" alt="kandimallavarun" /> </p>
 
-- 🔭 I’m currently working on **Java Backend Project at Apollo HomeCare**
+- 🔭 I’m currently working on **Java Backend Project**
 
 - 📫 Reach me at **varunkandimalla333@gmail.com**
 
